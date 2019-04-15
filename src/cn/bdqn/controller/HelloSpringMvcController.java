@@ -19,12 +19,5 @@ public class HelloSpringMvcController extends AbstractController {
         return modelAndView;
     }
 
-    public String teste(){
 
-        return "Test Git";
-    }
-
-    public String test(){
-        return "test";
-    }
 }

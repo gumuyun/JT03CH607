@@ -12,9 +12,9 @@
 
     <context:component-scan base-package="cn.bdqn.controller"/>
 
-    <!---->
+    <!--
     <bean class="cn.bdqn.controller.HelloSpringMvcController" name="/index.html"/>
-
+-->
     <mvc:annotation-driven />
 
     <!--视图解析器-->
