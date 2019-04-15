@@ -23,4 +23,8 @@ public class HelloSpringMvcController extends AbstractController {
 
         return "Test Git";
     }
+
+    public String test(){
+        return "test";
+    }
 }
