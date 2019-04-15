@@ -6,6 +6,9 @@ import org.springframework.web.servlet.mvc.AbstractController;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
+/**
+ * Test Git
+ */
 public class HelloSpringMvcController extends AbstractController {
 
     @Override
