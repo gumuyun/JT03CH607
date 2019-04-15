@@ -18,4 +18,9 @@ public class HelloSpringMvcController extends AbstractController {
         modelAndView.setViewName("index");
         return modelAndView;
     }
+
+    public String teste(){
+
+        return "Test Git";
+    }
 }
